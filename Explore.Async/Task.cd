@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Threading.Tasks.Task&lt;TResult&gt;">
+    <Position X="4" Y="0.5" Width="3.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Threading.Tasks.Task">
+    <Position X="8" Y="0.5" Width="3" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Consolas" Size="9" />
+</ClassDiagram>
